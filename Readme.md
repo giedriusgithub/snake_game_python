@@ -1,0 +1,1 @@
+# Simple snake game made while learning python. Made with python and pygame.
